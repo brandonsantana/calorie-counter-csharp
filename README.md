@@ -1,6 +1,8 @@
 # Calorie Counter
 Calorie Counter as a Visual Studio Console Application in C#
 
+Author: Brandon Xavier Santana
+
 The code shown below can be found in the directory CalorieCounter/Program.cs
 
 
