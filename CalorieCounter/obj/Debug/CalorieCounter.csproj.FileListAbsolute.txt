@@ -1,0 +1,6 @@
+c:\users\xavie\documents\visual studio 2015\Projects\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+c:\users\xavie\documents\visual studio 2015\Projects\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csprojResolveAssemblyReference.cache
+c:\users\xavie\documents\visual studio 2015\Projects\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+c:\users\xavie\documents\visual studio 2015\Projects\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+c:\users\xavie\documents\visual studio 2015\Projects\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+c:\users\xavie\documents\visual studio 2015\Projects\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb
