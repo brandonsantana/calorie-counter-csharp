@@ -1,4 +1,4 @@
-# calorie-counter-csharp
+# Calorie Counter
 Calorie Counter as a Visual Studio Console Application in C#
 
 The code shown below can be found in the directory CalorieCounter/Program.cs
