@@ -3,10 +3,15 @@ Calorie Counter as a Visual Studio Console Application in C#
 
 Author: Brandon Xavier Santana
 
+This program provides a recommended daily calorie intake based on the user's goal weight and allocates the calories into the three primary macronutrients: Protein, Carbohydrates and Fats. The user decides what percentages of each macro is relevant to their overall diet to meet their fitness goals.
+
+Tip: There are 4 calories in 1 gram of Protein and in 1 gram of Carbohydrates. 
+     There are 9 calories in 1 gram of Fat.
+
 The code shown below can be found in the directory CalorieCounter/Program.cs
 
 
-    ﻿using System;
+    using System;
         
         namespace CalorieCounter 
         {
