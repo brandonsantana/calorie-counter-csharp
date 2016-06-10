@@ -8,7 +8,7 @@ This program provides a recommended daily calorie intake based on the user's goa
 Tip: There are 4 calories in 1 gram of Protein and in 1 gram of Carbohydrates. 
      There are 9 calories in 1 gram of Fat.
 
-   *The code shown below can be found in the directory CalorieCounter/Program.cs
+The code shown below can be found in the directory CalorieCounter/Program.cs
 
 
     using System;
